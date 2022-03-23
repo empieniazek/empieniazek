@@ -5,7 +5,7 @@
 ## 📜 About me 📜
   I study Computer Sciencie with Artificial Intelligence on AGH in Cracow. 👨‍🎓
   
-  I love playing games as much as GameDave 🎮 and I belive, that novadays games are only the drop in the ocean of possible solutions. Thereupon I decided to create with my friends a research group 📈 on our uni. In this year we are taking a closer look at mobile games. 📱
+  I love GameDev as much as playing games 🎮 and I belive, that nowadays games are only the drop in the ocean of possible solutions. Thereupon I decided to create with my friends a research group 📈 on our uni. In this year we are taking a closer look at mobile games. 📱
   
   Besides my sciencie side, I am realy creative person 🤯 and sometimes it takes a toll on a team. Sometimes its better to stay with not perfect solution, than to start ove... and ove... and over again. 🔁
   
