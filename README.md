@@ -1,8 +1,21 @@
-### Hi there 👋
+# Hi there 👋
 
-Im Maciej Pieniążek and i am just a beginner so...
-just dont laugh xD
+I'm Maciej Pieniążek and I am starting my IT career!
 
-Here is my website: [Maciej Pieniążek](https://maciexpol.github.io)
+## 📜 About me 📜
 
-Here is some [awesome work!](https://github.com/Maciexpol/GFPGAN)
+## ⚙️ Projects 🔨
+  
+
+## ✨ Hobbies ✨ 
+  * I love playing my guitar 🎸 and creating music 🎶 -> [checkout my vibe](https://www.youtube.com/watch?v=jzdW4ejnq6Y)
+  * *GREAT* Coffee ☕ is one of the reasons of my existance
+  * 🧉 is a second sort, but still will do
+  * Flanks 🍺 should be the National Sport
+  * Fantastic Game 🎮/🎲 is an essence of the gorgeous evening
+  * U realy need to try out my Mojito 🍸
+
+## ☎️ Contact ☎️
+  
+  
+## 🤡 Socials 🤡
