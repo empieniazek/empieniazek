@@ -3,7 +3,7 @@
 #### I'm Maciej Pieniążek and I am starting my IT career! 🥳
 
 ## 📜 About me 📜
-  I study Computer Sciencie with Artificial Intelligence on AGH in Cracow. 👨‍🎓
+  I study Computer Sciencie and Intelligent Systems on AGH in Cracow. 👨‍🎓
   
   I love GameDev as much as playing games 🎮 and I belive, that nowadays games are only the drop in the ocean of possible solutions. Thereupon I decided to create with my friends a research group 📈 on our uni. In this year we are taking a closer look at mobile games. 📱
   
