@@ -18,12 +18,12 @@ I would be happy to expand my knowledge.📈
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Try it yourself!
    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---> [Click here for more]() <--- <!-- TODO: link -->
   
-  ### 🎲 [DeadLandsNPCGenerator](https://github.com/empieniazek/DeadLandsNPCGenerator)
+  ### 🎲 [DeadLandsNPCGenerator](https://github.com/empieniazek/DeadlandsNPCGenerator)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Me and my friends play RPG games. Sometimes the GM needs to spend couple of hours only on creating NPC's for the story.
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He told me that he will appriciate some help with it.
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I couldn't find specific NPC generator for our system ([DeadLands](https://en.wikipedia.org/wiki/Deadlands)) so me and my friend [@vLesio](https://github.com/vLesio) are trying to create it on our own.
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---> [Click here for more](https://github.com/empieniazek/DeadLandsNPCGenerator) <---
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---> [Click here for more](https://github.com/empieniazek/DeadlandsNPCGenerator) <---
   
   ### 🐢 [LogoToma]() <!-- TODO: link -->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Me and my friends created our first language for university course. It's like Logo but now your turtle is a rocket in space! 
@@ -37,11 +37,11 @@ I would be happy to expand my knowledge.📈
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check it out!
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---> [Click here for more]() <--- <!-- TODO: link -->
   
-  ### 🎒 [BackPack problem]() <!-- TODO: link -->
+  ### 🎒 [BackPack problem](https://github.com/empieniazek/Genetic_Backpack) <!-- TODO: link -->
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Basic implementation of **genetic algorithm** to solve backpack problem. [C++]
    
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check it out!
-   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---> [Click here for more]() <--- <!-- TODO: link -->
+   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---> [Click here for more](https://github.com/empieniazek/Genetic_Backpack) <--- <!-- TODO: link -->
    
    ### 📷 [Gshots](https://gshots.pl) <!-- TODO: link -->
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Site featuring photographer offer and gallery of his work.
