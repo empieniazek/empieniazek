@@ -31,11 +31,23 @@ I would be happy to expand my knowledge.📈
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check it out!
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---> [Click here for more]() <--- <!-- TODO: link -->
   
+  ### 🤖 [Hastar]() <!-- TODO: link -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research group project. This is shooter game in which you need to run out of bunker, but The Bunker is smart. Game responds to your actions...
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check it out!
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---> [Click here for more]() <--- <!-- TODO: link -->
+  
   ### 🎒 [BackPack problem]() <!-- TODO: link -->
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Basic implementation of **genetic algorithm** to solve backpack problem. [C++]
    
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check it out!
    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---> [Click here for more]() <--- <!-- TODO: link -->
+   
+   ### 📷 [Gshots](https://gshots.pl) <!-- TODO: link -->
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Site featuring photographer offer and gallery of his work.
+   
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check it out!
+   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---> [Click here for more](https://gshots.pl) <--- <!-- TODO: link -->
   
   ### 🏓 [Pong]() <!-- TODO: link -->
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Me and my uni reasearch group wanted to start working with Unity, so we came up with the idea of *The Pong Tournament*.
