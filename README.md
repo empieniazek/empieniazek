@@ -13,7 +13,7 @@ I would be happy to expand my knowledge.📈
 
 ## ⚙️ Projects 🔨
   ### 🏎️ [Racing Cart]() <!-- TODO: link -->
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Me and my uni reasearch group were chosen for being a mentor on hackaton "Hacknarok". We made this game as a small tournament for participants. 
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Me and my uni reasearch group were chosen for being mentors on hackaton "Hacknarok". We made this game as a small tournament for participants. 
    
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Try it yourself!
    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---> [Click here for more]() <--- <!-- TODO: link -->
