@@ -25,17 +25,23 @@ I would be happy to expand my knowledge.📈
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I couldn't find specific NPC generator for our system ([DeadLands](https://en.wikipedia.org/wiki/Deadlands)) so me and my friend [@vLesio](https://github.com/vLesio) are trying to create it on our own.
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---> [Click here for more](https://github.com/empieniazek/DeadLandsNPCGenerator) <---
   
-  ### 🎒 [BackPack problem]()
+  ### 🐢 [LogoToma]() <!-- TODO: link -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Me and my friends created our first language for university course. It's like Logo but now your turtle is a rocket in space! 
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check it out!
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---> [Click here for more]() <--- <!-- TODO: link -->
+  
+  ### 🎒 [BackPack problem]() <!-- TODO: link -->
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Basic implementation of **genetic algorithm** to solve backpack problem. [C++]
    
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check it out!
-   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---> [Click here for more]() <---
+   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---> [Click here for more]() <--- <!-- TODO: link -->
   
-  ### 🏓 [Pong]()
+  ### 🏓 [Pong]() <!-- TODO: link -->
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Me and my uni reasearch group wanted to start working with Unity, so we came up with the idea of *The Pong Tournament*.
    
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My pong took second place and in my opinion came out as a very nice interpretation of this classic... so i post it here!
-   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---> [Click here for more]() <---
+   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---> [Click here for more]() <--- <!-- TODO: link -->
 
 ## ✨ Hobbies ✨ 
   * I love playing my guitar 🎸 and creating music 🎶 -> [checkout my vibe](https://www.youtube.com/watch?v=jzdW4ejnq6Y)
