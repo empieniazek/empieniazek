@@ -25,11 +25,11 @@ I would be happy to expand my knowledge.📈
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I couldn't find specific NPC generator for our system ([DeadLands](https://en.wikipedia.org/wiki/Deadlands)) so me and my friend [@vLesio](https://github.com/vLesio) are trying to create it on our own.
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---> [Click here for more](https://github.com/empieniazek/DeadlandsNPCGenerator) <---
   
-  ### 🐢 [LogoToma]() <!-- TODO: link -->
+  ### 🐢 [LogoToma](https://github.com/vLesio/logotoma) <!-- TODO: link -->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Me and my friends created our first language for university course. It's like Logo but now your turtle is a rocket in space! 
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check it out!
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---> [Click here for more]() <--- <!-- TODO: link -->
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---> [Click here for more](https://github.com/vLesio/logotoma) <--- <!-- TODO: link -->
   
   ### 🤖 [Hastar]() <!-- TODO: link -->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research group project. This is shooter game in which you need to run out of bunker, but The Bunker is smart. Game responds to your actions...
